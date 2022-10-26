@@ -128,32 +128,93 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tema: 'Manipulación / Ejemplo ficha técnica ',
+      referencia:
+        'New Stetic. (2009). Ficha técnica resina acrílica autopolimerizable.',
+      tipo: 'Documento',
+      link: 'https://newstetic.com/documents_products/ft_acrilico_auto.pdf',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Tipos de oclusión, movimientos mandibulares',
+      referencia:
+        'Pacheco, G., N., y  Morales, G., J. (2015). Oclusión (2a. ed.). Universidad Nacional Autónoma de México.',
+      tipo: 'Libro leer páginas 91 a 104.',
+      link:
+        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/74467',
     },
   ],
   glosario: [
     {
-      termino: '',
-      significado: '',
+      termino: 'Dureza de Knoop',
+      significado:
+        'técnica estándar de la industria para explorar la dureza mecánica de materiales quebradizos o muestras delgadas.',
     },
     {
-      termino: '<em></em>',
-      significado: '',
+      termino: 'Ficha técnica',
+      significado:
+        'documento puramente informativo que se utiliza para detallar las características y especificaciones técnicas, sobre un producto determinado.',
+    },
+    {
+      termino: 'Modelo yeso',
+      significado:
+        'registros construidos en yeso que reproducen la oclusión anatómica, bucal y dental del paciente que constituyen un elemento de primer orden para el tratamiento ortodóntico.',
+    },
+    {
+      termino: 'Polímero',
+      significado:
+        'grandes moléculas (macromoléculas) compuestas por la unión de moléculas más pequeñas denominadas “monómeros”.',
+    },
+    {
+      termino: 'Resistencia a la abrasión',
+      significado:
+        'habilidad de la superficie a resistir el desgaste realizado por el alto uso.',
+    },
+    {
+      termino: 'Resistencia a la tracción',
+      significado:
+        'esfuerzo máximo desarrollado en un material en un ensayo de tracción.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Caero, B., M. (2009). Ortodoncia dental y sus tipos. El Cid Editor. https://elibro.net/es/lc/elibrocom/titulos/28232',
+      link: 'https://elibro.net/es/lc/elibrocom/titulos/28232',
+    },
+    {
+      referencia:
+        'Esponda, V., R. (2019). Anatomía dental. Universidad Nacional Autónoma de México (UNAM).',
+      link: 'https://elibro.net/es/lc/elibrocom/titulos/187393',
+    },
+    {
+      referencia:
+        'Gill, D., y Naini, F. (2014). Ortodoncia: principios y práctica. Editorial El Manual Moderno. ',
+      link: 'https://elibro.net/es/lc/elibrocom/titulos/39664',
+    },
+    {
+      referencia:
+        'Matiz, C., J. (2014). Temas de rehabilitación oral: acrílicos dentales. 1: Clínica-laboratorio. Ecoe Ediciones. ',
+      link: 'https://elibro.net/es/lc/elibrocom/titulos/122433',
+    },
+    {
+      referencia:
+        'Navas, C., E. (Coord.). (2018). Prevención de riesgos laborales, sector sanitario: riesgos específicos del trabajo de protésicos dentales. Editorial ICB.',
       link: '',
+    },
+    {
+      referencia:
+        'Nayib, R., L. J., y Álvarez, G. G. J. (2017). Aspectos claves: alteraciones del desarrollo dental. Fondo Editorial CIB.',
+      link: 'https://elibro.net/es/lc/elibrocom/titulos/186732',
+    },
+    {
+      referencia:
+        'Rojas, G., M. T. (2014). Anatomía dental. Editorial El Manual Moderno. ',
+      link: 'https://elibro.net/es/lc/elibrocom/titulos/39706',
+    },
+    {
+      referencia:
+        'Uribe, R., G. A., y Uribe, T., P. (2019). Fundamentos de odontología: ortodoncia: teoría y clínica "énfasis en biomecánica". Fondo Editorial CIB.',
+      link: 'https://elibro.net/es/lc/elibrocom/titulos/186719',
     },
   ],
   creditos: {
@@ -167,9 +228,30 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        cargo: 'Responsable del equipo de Diseño Instruccional',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Daniel L. Toro A.',
+        cargo: 'Experto temático ',
+        centro: 'Regional Antioquia - Centro de Servicios de Salud',
+      },
+      {
+        nombre: 'Paola Alexandra Moya Peralta',
+        cargo: 'Diseñadora instruccional',
+        centro:
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Asesora Metodológica',
+        centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología.',
       },
     ],
     desarrolloProducto: [
@@ -180,7 +262,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Eulises Orduz',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
@@ -192,32 +274,22 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Lizeth Karina Manchego',
         cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
+        nombre: 'Veimar Celis',
+        cargo: 'Validación de contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Álvaro Andrés Angarita Ramirez',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Daniel Felipe Varón Molina',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
+        cargo: 'Responsable del equipo de Gestión de Repositorio',
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
     ],

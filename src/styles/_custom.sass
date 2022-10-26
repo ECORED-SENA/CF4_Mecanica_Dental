@@ -1,4 +1,4 @@
-.bg_img_01
+.bg_img_01,.bg_color_azul, .bg_azul_dark
   position: relative
   & > *
     position: relative
@@ -18,12 +18,56 @@
     background-position: top right
     background-size: cover
 
+
+.bg_color_azul
+  &::before
+    background: #D9EAF5
+    height: 350px
+    width: 150%
+    margin-inline: -3.2rem !important
+
+.bg_azul_dark
+  &::before
+    background: #004F83
+    width: 150%
+    margin-inline: -3.2rem !important
+
 .tarjeta.bg_azul
   background-color: #D9EAF5
   height: 100%
 
+.tarjeta--boton
+  height: 100%
+
+.tarjeta.color-primario, .tarjeta-slide.color-primario
+  background: #004F83 !important
+
+.tarjeta-slide.color-primario .tarjeta-slide__img
+ background: #004F83 !important
+
 .horizontal-scroll
-  align-items: stretch
+  align-items: stretch !important
+
+
+.cajon.color-acento-contenido
+  background-color: #c3f1f2
+
+.cajon.color-acento-contenido:before
+  background-color: #13c6cc
+
+
+.bloque_vertical
+  max-width: 85px
+  min-height: 50px
+  background-image: url("../assets/curso/recursos/bloque_vertical.svg")
+  background-repeat: repeat
+  background-position: top right
+
+.text-color-sistema
+  color: $color-sistema-texto !important
+
+.text-color-sistema strong
+  color: $color-sistema-texto !important
 
 @media (max-width: 992px)
   .fondo-2
