@@ -103,7 +103,7 @@
         .col-lg-12(data-aos="fade-left")
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/g2k0_nhHyMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     separador
@@ -132,18 +132,6 @@
 
 
         p Una de las principales aplicaciones es para la reparación de restauraciones dentales como prótesis totales o parciales, fabricación o elaboración de aparatos de ortodoncia, ortopedia y de restauraciones provisionales. Las resinas acrílicas son activadas químicamente, mediante la inclusión de una amina terciaria al componente líquido, sin requerir la aplicación de energía térmica.
-
-
-
-    .bg_color_azul
-
-      p.pt-5.pb-3.text-center.mb-4 #[strong En el siguiente video se presentan los polímeros y su uso: ]
-
-      .row.justify-content-center.align-items-center.mb-5
-        .col-lg-12(data-aos="fade-left")
-          figure
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     separador
@@ -217,13 +205,20 @@
 
     .bg_color_azul
 
-      p.pt-5.pb-3.text-center.mb-4 #[strong En el siguiente video se presenta la manipulación y fabricación de un dispositivo de aparatología dental: ]
+      p.pt-5.pb-3.text-center.mb-4 #[strong En los siguientes videos se presenta la manipulación y fabricación de un dispositivo de aparatología dental: ]
 
       .row.justify-content-center.align-items-center.mb-5
         .col-lg-12(data-aos="fade-left")
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/IpoKPILeY3w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-12(data-aos="fade-left")
+          figure
+            .video
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/WZyr3UYCRYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     separador
