@@ -37,7 +37,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Clasificación aparatología',
+            titulo: 'Clasificación de la aparatología',
             hash: 't_2_1',
           },
           {

@@ -12,7 +12,7 @@
       .col-lg-7.col-md
 
         .cajon.color-acento-contenido.p-4
-          p.mb-0 Los materiales dentales utilizados para confeccionar los aparatos ortodóncicos deben permitir que, al momento de su elaboración, se tengan en cuenta que los técnicos dentales puedan utilizar los materiales biocompatibles, seguros y confortables. Estos se confeccionan partiendo de la información que envía el profesional de la odontología y teniendo en cuenta que aparte del conocimiento en el protocolo de elaboración, consta de dos elementos esenciales que son #[strong el cuerpo alámbrico y el cuerpo acrílico], respetado las indicaciones de los fabricantes al momento de su elaboración, para que permitan confeccionar el dispositivo con las condiciones requeridas por el profesional y el paciente. Todos los dispositivos son realizados por el técnico dental, con base en la solicitud de una orden de trabajo que envía el odontólogo.
+          p.mb-0 Los materiales dentales utilizados para confeccionar los aparatos ortodóncicos deben permitir que, al momento de su elaboración, se tengan en cuenta que los técnicos dentales puedan utilizar los materiales biocompatibles, seguros y confortables. Estos se confeccionan partiendo de la información que envía el profesional de la odontología y teniendo en cuenta que aparte del conocimiento en el protocolo de elaboración, consta de dos elementos esenciales que son #[strong el cuerpo alámbrico y el cuerpo acrílico], respetando las indicaciones de los fabricantes al momento de su elaboración, para que permitan confeccionar el dispositivo con las condiciones requeridas por el profesional y el paciente. Todos los dispositivos son realizados por el técnico dental, con base en la solicitud de una orden de trabajo que envía el odontólogo.
 
       .col-lg-5.d-none.d-lg-block
         figure
@@ -103,7 +103,7 @@
         .col-lg-12(data-aos="fade-left")
           figure
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/g2k0_nhHyMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/PCG-DMy3alA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     separador
@@ -238,7 +238,7 @@
     .bg_azul_dark.p-5
 
       .row.justify-content-center.my-4
-        .col-lg-9.col-md-10
+        .col-lg-11.col-md-10
           figure
             img(src="@/assets/curso/temas/tema2/figura2.png")
 
