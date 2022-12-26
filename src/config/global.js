@@ -132,7 +132,8 @@ export default {
       referencia:
         'New Stetic. (2009). Ficha técnica resina acrílica autopolimerizable.',
       tipo: 'Documento',
-      link: 'https://newstetic.com/documents_products/ft_acrilico_auto.pdf',
+      link:
+        'https://www.newstetic.com/documents_products/FT_003_v8_Dientes_espanol.pdf?_t=1646335869',
     },
     {
       tema: 'Tipos de oclusión, movimientos mandibulares',
@@ -178,23 +179,24 @@ export default {
   referencias: [
     {
       referencia:
-        'Caero, B., M. (2009). Ortodoncia dental y sus tipos. El Cid Editor. https://elibro.net/es/lc/elibrocom/titulos/28232',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/28232',
+        'Caero, B., M. (2009). Ortodoncia dental y sus tipos. El Cid Editor.',
     },
     {
       referencia:
         'Esponda, V., R. (2019). Anatomía dental. Universidad Nacional Autónoma de México (UNAM).',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/187393',
+      link:
+        'https://www.academia.edu/9753158/30468426_Anatomia_Dental_Esponda_Vila',
     },
     {
       referencia:
         'Gill, D., y Naini, F. (2014). Ortodoncia: principios y práctica. Editorial El Manual Moderno. ',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/39664',
+      link: 'https://docer.com.ar/doc/855sc8',
     },
     {
       referencia:
         'Matiz, C., J. (2014). Temas de rehabilitación oral: acrílicos dentales. 1: Clínica-laboratorio. Ecoe Ediciones. ',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/122433',
+      link:
+        'https://www.digitaliapublishing.com/a/70668/temas-de-rehabilitacion-oral.-acrilicos-dentales-i',
     },
     {
       referencia:
@@ -204,17 +206,18 @@ export default {
     {
       referencia:
         'Nayib, R., L. J., y Álvarez, G. G. J. (2017). Aspectos claves: alteraciones del desarrollo dental. Fondo Editorial CIB.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/186732',
+      link:
+        'https://www.profitecnicas.com/libro/aspectos-claves-alteraciones-del-desarrollo-dental-1a-ed-2017_139386',
     },
     {
       referencia:
         'Rojas, G., M. T. (2014). Anatomía dental. Editorial El Manual Moderno. ',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/39706',
+      link: '',
     },
     {
       referencia:
         'Uribe, R., G. A., y Uribe, T., P. (2019). Fundamentos de odontología: ortodoncia: teoría y clínica "énfasis en biomecánica". Fondo Editorial CIB.',
-      link: 'https://elibro.net/es/lc/elibrocom/titulos/186719',
+      link: '',
     },
   ],
   creditos: {
